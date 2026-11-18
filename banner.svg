@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" font-family="Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07070f"/>
+      <stop offset="1" stop-color="#101024"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="g1" cx=".15" cy=".2" r=".6">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx=".88" cy=".85" r=".6">
+      <stop offset="0" stop-color="#a855f7" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="220" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="220" rx="16" fill="url(#g1)"/>
+  <rect width="1200" height="220" rx="16" fill="url(#g2)"/>
+  <rect x="4" y="4" width="1192" height="212" rx="13" fill="none" stroke="url(#neon)" stroke-opacity=".5" stroke-width="1.5"/>
+  <text x="600" y="104" text-anchor="middle" font-size="52" font-weight="700" fill="url(#neon)">Hi, I'm 姚懿宸 / Yichen Yao 👋</text>
+  <text x="600" y="148" text-anchor="middle" font-size="24" fill="#a5b0c2">Embodied AI · 3D Visual Grounding · Multimodal LLM</text>
+  <text x="600" y="184" text-anchor="middle" font-size="18" fill="#6b7280">Master @ Zhejiang University (AI Institute) · AAAI 2026 First Author</text>
+</svg>
