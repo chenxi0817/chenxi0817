@@ -3,19 +3,17 @@
 <img src="./banner.svg" width="100%" alt="Yichen Yao banner"/>
 
 <a href="https://chenxi0817.github.io/"><img src="https://img.shields.io/badge/🌐_Homepage-chenxi0817.github.io-0d0d1c?style=for-the-badge&labelColor=0d0d1c" alt="Homepage"/></a>
-<img src="https://img.shields.io/badge/AAAI_2026-First_Author-22d3ee?style=for-the-badge&labelColor=0d0d1c" alt="AAAI 2026"/>
-<img src="https://img.shields.io/badge/EMNLP_2025-Under_Review-a855f7?style=for-the-badge&labelColor=0d0d1c" alt="EMNLP 2025"/>
-<img src="https://img.shields.io/badge/ZJU-AI_Institute-6366f1?style=for-the-badge&labelColor=0d0d1c" alt="ZJU"/>
+<img src="https://img.shields.io/badge/ZJU-Software_Institute-6366f1?style=for-the-badge&labelColor=0d0d1c" alt="ZJU"/>
+<img src="https://img.shields.io/badge/Class_of-2029-22d3ee?style=for-the-badge&labelColor=0d0d1c" alt="Class of 2029"/>
 
 </div>
 
 ### 🧑‍🚀 About Me
 
-- 🔭 Master @ **Zhejiang University · AI Institute** (2024–2027), advised by Prof. Mingli Song & Researcher Zhenyu Liu
-- 🧠 Research: **Embodied AI · 3D Visual Grounding · Multimodal LLM**
-- 📄 First-author: **UniRL** (AAAI 2026) — unified RL framework for embodied navigation, SOTA on 8 benchmarks
-- 🎵 First-author: **MUSE** (EMNLP 2025, under review) — music-semantics-enhanced unified multimodal LLM
-- 🎓 B.Sc. in Statistics @ Renmin University of China
+- 🔭 Master @ **Zhejiang University · Software Institute** (2026–2029), advised by Prof. Jianke Zhu
+- 🧠 Interests: **Computer Vision · 3D Visual Understanding · Multimodal LLM**
+- 🎓 B.Eng. in Computer Science and Technology @ Zhejiang University
+- 🛠 Hands-on projects: embodied navigation (UniRL), 3D visual grounding (3DGS + VLM), ScanRefer reproduction
 
 ### 🛠 Tech Stack
 
@@ -32,12 +30,12 @@
 
 ### 🚀 Featured Work
 
-| Project | Description | Status |
-|---|---|---|
-| **UniRL** | 统一 RL 具身导航框架：理解 → 预测 → 决策闭环，8 项 3D 导航基准 SOTA | 🏆 AAAI 2026 |
-| **3DGS + VLM 定位系统** | 开放词汇三维视觉定位（OpenVLA / 3DGS / ScanNet++），输出带世界坐标的语义先验 | 🔬 科研在研 |
-| **MUSE** | 音乐语义增强多模态大模型 + 音乐理解 Benchmark | 📝 EMNLP 2025 UR |
-| **ReferScene3D** | ScanRefer 复现：文本 → ScanNet 场景 3D 检测框，指标对齐原文 | ✅ 复现完成 |
+| Project | Description |
+|---|---|
+| **UniRL** | 统一 RL 具身导航框架：理解 → 预测 → 决策闭环，多类 3D 导航任务 |
+| **3DGS + VLM 定位系统** | 开放词汇三维视觉定位（OpenVLA / 3DGS / ScanNet++），输出带世界坐标的语义先验 |
+| **MUSE** | 音乐语义增强多模态模型 + 音乐理解 Benchmark 构建 |
+| **ReferScene3D** | ScanRefer 复现：文本 → ScanNet 场景 3D 检测框，指标对齐原文 |
 
 ### 📊 Stats
 

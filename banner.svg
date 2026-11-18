@@ -27,6 +27,6 @@
   <rect width="1200" height="220" rx="16" fill="url(#g2)"/>
   <rect x="4" y="4" width="1192" height="212" rx="13" fill="none" stroke="url(#neon)" stroke-opacity=".5" stroke-width="1.5"/>
   <text x="600" y="104" text-anchor="middle" font-size="52" font-weight="700" fill="url(#neon)">Hi, I'm 姚懿宸 / Yichen Yao 👋</text>
-  <text x="600" y="148" text-anchor="middle" font-size="24" fill="#a5b0c2">Embodied AI · 3D Visual Grounding · Multimodal LLM</text>
-  <text x="600" y="184" text-anchor="middle" font-size="18" fill="#6b7280">Master @ Zhejiang University (AI Institute) · AAAI 2026 First Author</text>
+  <text x="600" y="148" text-anchor="middle" font-size="24" fill="#a5b0c2">Computer Vision · 3D Visual Understanding · Multimodal LLM</text>
+  <text x="600" y="184" text-anchor="middle" font-size="18" fill="#6b7280">Master @ Zhejiang University (Software Institute) · Class of 2029</text>
 </svg>
